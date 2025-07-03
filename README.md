@@ -71,13 +71,6 @@ To participate or contribute:
 - Email: mohany.works@gmail.com  
 - Telegram: [@M_A_R_U_SSD](https://t.me/M_A_R_U_SSD)
 
-
----
-
-## Disclaimer
-
-Using automation tools in games may violate the game's Terms of Service and can result in account bans. Use this bot responsibly and at your own risk.
-
----
+.
 
 **Thanks for your interest in Lords AI!**
